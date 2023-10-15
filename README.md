@@ -9,4 +9,5 @@ What things you need to install the software and how to install them
 3. install Pygame(for mac, type this in terminal and run: pip3 install pygame)
 ### Running and testing
 once you have every thing working and the source code cloned on your local machine, when you run it, you willl be redirected to a separate screen that pops up and displayes the game. 
-
+![Alt text](image.png)
+![Alt text](image-1.png)
